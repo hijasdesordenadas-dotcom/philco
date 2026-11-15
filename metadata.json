@@ -1,0 +1,6 @@
+{
+  "name": "Philco AC Control",
+  "description": "Control remoto universal, códigos IR y guía de configuración para aires acondicionados Philco en Huawei Pura 80.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
